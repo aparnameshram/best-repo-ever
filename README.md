@@ -1,3 +1,3 @@
 # best-repo-ever
 # adding some text to test 
-# adding line from new-branch-1
+# changing same line from new-branch-2
